@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-dropdown-multiselect/static/css/main.854c60b5.chunk.css",
+    "main.js": "/react-dropdown-multiselect/static/js/main.296e2585.chunk.js",
+    "main.js.map": "/react-dropdown-multiselect/static/js/main.296e2585.chunk.js.map",
+    "runtime-main.js": "/react-dropdown-multiselect/static/js/runtime-main.dbb09687.js",
+    "runtime-main.js.map": "/react-dropdown-multiselect/static/js/runtime-main.dbb09687.js.map",
+    "static/js/2.e3e8f635.chunk.js": "/react-dropdown-multiselect/static/js/2.e3e8f635.chunk.js",
+    "static/js/2.e3e8f635.chunk.js.map": "/react-dropdown-multiselect/static/js/2.e3e8f635.chunk.js.map",
+    "index.html": "/react-dropdown-multiselect/index.html",
+    "static/css/main.854c60b5.chunk.css.map": "/react-dropdown-multiselect/static/css/main.854c60b5.chunk.css.map",
+    "static/js/2.e3e8f635.chunk.js.LICENSE.txt": "/react-dropdown-multiselect/static/js/2.e3e8f635.chunk.js.LICENSE.txt",
+    "static/media/DropdownItem.module.css": "/react-dropdown-multiselect/static/media/checkbox-on.1c0716b1.svg",
+    "static/media/svg-sprite.1a0544cc.svg": "/react-dropdown-multiselect/static/media/svg-sprite.1a0544cc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbb09687.js",
+    "static/js/2.e3e8f635.chunk.js",
+    "static/css/main.854c60b5.chunk.css",
+    "static/js/main.296e2585.chunk.js"
+  ]
+}
